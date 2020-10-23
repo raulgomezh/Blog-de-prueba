@@ -2,8 +2,6 @@ Este es un archivo de prueba.
 
 Soy José Raúl Gómez Hinojosa, tengo 34 años.
 
-Aquí debería ir otro comentario de usuario
-
 F&I Manager and Platzi student.
 
 Próximamante Data Scientist at DXC, por lo pronto, a seguir estudiando
