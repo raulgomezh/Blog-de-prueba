@@ -8,3 +8,5 @@ Un blog de prueba para el curso de Git y GitHub de Platzi.
 - Ejemplos claros
 
 **Este Readme.md es solo un ejemplo**
+
+- Creado por Raúl
